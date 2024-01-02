@@ -1,6 +1,6 @@
-# Alessandro-s-Italian-Restaurant
-An interactive Italian Restaurant website. Made with React Components, Props, and Hooks. Styled with CSS.
+# Restaurant fondo de bikini
 
-To Start
+- Un sitio de restaurant con React, Props y Hooks y CSS
 
-To start project, type "npm start" in command line.
+
+- Para Iniciar proyecto "npm start" en la linea de comandos
